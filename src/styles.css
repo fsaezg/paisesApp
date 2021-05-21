@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+
+.small-flag {
+    width: 50px;
+}
+
+.mr-1 {
+    margin-right: 5px;
+}
+
+html, body {
+    width: 100%;
+    background-color: #20bf55;
+    background-image: linear-gradient(315deg, #20bf55 0%, #01baef 74%);
+
+}
+
+hr {
+    color: white;
+}
+
+h1, h2, h3, h4, h5{
+    color: white;
+    -webkit-text-stroke: 0.9px black;
+    background-image: black;
+}
